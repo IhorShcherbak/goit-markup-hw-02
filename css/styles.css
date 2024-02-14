@@ -33,7 +33,6 @@ font-family: "Raleway", sans-serif;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42
 }
 .logo-header-color {
     color: #4d5ae5;
@@ -102,7 +101,7 @@ font-family: "Raleway", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.logo {
+.page-footer-logo {
     color: #F4F4FD;
 }
 .page-footer-text {
